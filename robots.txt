@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c4aa5df47d.igact.cn/sitemap.xml
